@@ -6,7 +6,7 @@
   },
   "name": "curd_express",
   "version": "0.0.1",
-  "description": "Primera vez con NodeJS y Express",
+  "description": "NodeJS y Express",
   "main": "index.js",
   "devDependencies": {
     "nodemon": "^2.0.20"
